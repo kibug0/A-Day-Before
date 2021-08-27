@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 412: expected statement.
+    tyle main_menu_button is gui_button
+                                       ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Mon Dec 14 22:52:40 2020
